@@ -11049,6 +11049,6 @@ html {
   font-weight: 900; /* 700, 800, 900 selon la police */
 }
 
-.hl-blue {
-  color: blue;
+.hl-invert {
+  color: yellow;
 }
